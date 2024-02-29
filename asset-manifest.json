@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Plan-With-Luv/static/css/main.459712ff.css",
+    "main.css": "/Plan-With-Luv/static/css/main.830b1b14.css",
     "main.js": "/Plan-With-Luv/static/js/main.e2e52d90.js",
     "index.html": "/Plan-With-Luv/index.html",
-    "main.459712ff.css.map": "/Plan-With-Luv/static/css/main.459712ff.css.map",
+    "main.830b1b14.css.map": "/Plan-With-Luv/static/css/main.830b1b14.css.map",
     "main.e2e52d90.js.map": "/Plan-With-Luv/static/js/main.e2e52d90.js.map"
   },
   "entrypoints": [
-    "static/css/main.459712ff.css",
+    "static/css/main.830b1b14.css",
     "static/js/main.e2e52d90.js"
   ]
 }
