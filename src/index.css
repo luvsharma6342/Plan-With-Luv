@@ -68,6 +68,7 @@ body {
 
 .read-more {
     color: #12b0e8;
+    cursor: pointer;
 }
 
 .btn-red {
